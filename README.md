@@ -12,3 +12,13 @@
 
 **Tópicos**:
    * Conceitos e histórico: `conc_hist_02`
+   * Enzimas e moléculas: `enz_mol`
+   * Funcionamento: `funcionamento`
+   * Telômeros: `telomeros`
+
+#### Transcrição: `transcricao`
+
+**Tópicos**:
+   * Iniciação: `iniciacao`
+ 
+
