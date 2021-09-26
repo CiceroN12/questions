@@ -1,0 +1,20 @@
+{
+    "assunto": "replicacao",
+    "tema": "conc_hist_02",
+    "questoes": [
+        {
+            "enunciado": "enunciado-exemplo",
+            "alts": {
+                "0": "exemplo alternativa"
+            },
+            "cAlt": 0
+        },
+        {
+            "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "exemplo alternativa"
+            },
+            "cAlt": 0
+        }
+    ]
+}
