@@ -3,18 +3,196 @@
     "tema": "conc_hist_02",
     "questoes": [
         {
-            "enunciado": "enunciado-exemplo",
+            "(CEPERJ - 2011) A replicação do DNA é um processo complexo que envolve várias enzimas. A enzima responsável por evitar o superenrolamento do DNA, promovendo quebras controladas na cadeia de DNA, é:": "(CEPERJ - 2011) A replicação do DNA é um processo complexo que envolve várias enzimas. A enzima responsável por evitar o superenrolamento do DNA, promovendo quebras controladas na cadeia de DNA, é:",
+            "alts": {
+                "0": "proteína SSB (single strand protein DNA binding)"
+                "1": "helicase"
+                "2": "topoisomerase"
+                "3": "DNA polimerase"
+                "4": "DNAse"
+            },
+            "cAlt": 2
+        },
+        {
+            "(CEPERJ - 2011) O ciclo celular é o ciclo de duplicação das células. Nas espécies multicelulares, esse ciclo envolve quatro fases que estão sujeitas a um complexo sistema de controle com pontos de checagem ou de verificação. Mas, na ausência de algum mitógeno extracelular, a duplicação celular pode ser bloqueada, e as células entram em um estado de dormência ou quiescência, que é chamado de:": "(CEPERJ - 2011) O ciclo celular é o ciclo de duplicação das células. Nas espécies multicelulares, esse ciclo envolve quatro fases que estão sujeitas a um complexo sistema de controle com pontos de checagem ou de verificação. Mas, na ausência de algum mitógeno extracelular, a duplicação celular pode ser bloqueada, e as células entram em um estado de dormência ou quiescência, que é chamado de:",
+            "alts": {
+                "0": "G0"
+                "1": "S0"
+                "2": "M0"
+                "3": "M1"
+                "4": "S1"
+            },
+            "cAlt": 0
+        },
+        {
+    ]        "(Perito ES 2018) Assinale a alternativa que apresenta as principais enzimas envolvidas no processo de replicação do DNA na ordem de participação de cada uma delas nesse processo.": "(Perito ES 2018) Assinale a alternativa que apresenta as principais enzimas envolvidas no processo de replicação do DNA na ordem de participação de cada uma delas nesse processo.",
+            "alts": {
+                "0": "Proteínas iniciadoras; DNA ligase; Proteínas SSB; DNA helicase; DNA primase; DNA pol I e DNA pol II"
+                "1": "Proteínas iniciadoras; DNA helicase, Proteínas SSB; DNA girase; DNA pol II; DNA pol III; DNA pol I e DNA primase"
+                "2": "Proteínas iniciadoras; DNA helicase; Proteínas SSB; DNA girase; DNA primase; DNA pol II, DNA pol III; DNA pol I e DNA ligase"
+                "3": "Proteínas iniciadoras; Proteínas SSB; DNA primase, DNA pol II; DNA helicase e DNA pol III"
+                "4": "Proteínas iniciadoras; DNA ligase; proteínas SSB; DNA primase; DNA pol II; DNA pol III, DNA pol I e DNA ligase"
+            },
+            "cAlt": 2
+        },
+        {        "(UFES 2016) A atividade da DNA polimerase que permite a correção de erros de polimerização é ": "(UFES 2016) A atividade da DNA polimerase que permite a correção de erros de polimerização é ",
+            "alts": {
+                "0": "5’-3’ exonuclease"
+                "1": "5’-3’ polimerase"
+                "2": "3’-5’ ligase"
+                "3": "3’-5’ endonuclease"
+                "4": "3’-5’ exonuclease"
+            },
+            "cAlt": 4
+        },
+        {        "(Perito PE 2016) Assinale a opção em que são apresentadas, respectivamente, a enzima que auxilia na quebra das ligações de hidrogênio e a enzima que retira a tensão da dupla fita de DNA no processo de replicação de DNA": "(Perito PE 2016) Assinale a opção em que são apresentadas, respectivamente, a enzima que auxilia na quebra das ligações de hidrogênio e a enzima que retira a tensão da dupla fita de DNA no processo de replicação de DNA",
+            "alts": {
+                "0": "DNA enovelase e DNA ligase"
+                "1": "tripsina e pepsina"
+                "2": "RNA polimerase e DNA isomerase"
+                "3": "DNA metilase e topoisomerase"
+                "4": "DNA helicase e topoisomerase"
+            },
+            "cAlt": 4
+        },
+        {        "(Fiocruz 2010) No processo de replicação do DNA, as topoisomerases são enzimas que catalisam: ": "(Fiocruz 2010) No processo de replicação do DNA, as topoisomerases são enzimas que catalisam: ",
+            "alts": {
+                "0": "a quebra e a religação da cadeia polinucleotídica do DNA"
+                "1": "a quebra das pontes de hidrogênio do DNA"
+                "2": "a síntese da nova cadeia de DNA"
+                "3": "a ligação dos fragmentos de Okazaki"
+                "4": "a adição de unidades repetitivas nas terminações cromossômicas"
+            },
+            },
+            "cAlt": 0
+        },
+        {        "(PC PE 2016) A sequência do DNA pode ser mudada devido não somente aos erros de cópia introduzidos pelas enzimas durante a replicação, mas também aos agentes ambientais como substâncias químicas mutagênicas e certos tipos de radiação. A enzima responsável pelas provas de leitura é a: ": "(PC PE 2016) A sequência do DNA pode ser mudada devido não somente aos erros de cópia introduzidos pelas enzimas durante a replicação, mas também aos agentes ambientais como substâncias químicas mutagênicas e certos tipos de radiação. A enzima responsável pelas provas de leitura é a: ",
+            "alts": {
+                 "0": "DNA polimerase"
+                "1": "DNA girase"
+                "2": "DNA ligase"
+                "3": "DNA polimerase"
+                "4": "helicase"
+            },
+            "cAlt": 0
+        },
+        {        "(TJMA 2004) A replicação do DNA fita dupla exige que as duas fitas sejam separadas, o que implica a necessidade de girar o DNA sobre si mesmo milhões de vezes durante o processo. Se o DNA for circular, a tensão gerada nele pelo avanço bidirecional da forquilha de replicação é enorme; além disso, no fim do processo as duas fitas duplas de DNA ficam presas uma a outra (catenadas). Que enzimas são responsáveis pelo relaxamento da tensão gerada na replicação e pela decatenação dos DNAs circulares?": "(TJMA 2004) A replicação do DNA fita dupla exige que as duas fitas sejam separadas, o que implica a necessidade de girar o DNA sobre si mesmo milhões de vezes durante o processo. Se o DNA for circular, a tensão gerada nele pelo avanço bidirecional da forquilha de replicação é enorme; além disso, no fim do processo as duas fitas duplas de DNA ficam presas uma a outra (catenadas). Que enzimas são responsáveis pelo relaxamento da tensão gerada na replicação e pela decatenação dos DNAs circulares?",
+            "alts": {
+                "0": "helicases"
+                "1": "toposiomerases"
+                "2": "telomerases"
+                "3": "girases"
+                "4": "ligases"
+            },
+            "cAlt": 1
+        },
+
+
+
+
+
+
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "proteína SSB (single strand protein DNA binding)"
+                "1": "helicase"
+                "2": "topoisomerase"
+                "3": "DNA polimerase"
+                "4": "DNAse"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "proteína SSB (single strand protein DNA binding)"
+                "1": "helicase"
+                "2": "topoisomerase"
+                "3": "DNA polimerase"
+                "4": "DNAse"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "proteína SSB (single strand protein DNA binding)"
+                "1": "helicase"
+                "2": "topoisomerase"
+                "3": "DNA polimerase"
+                "4": "DNAse"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "proteína SSB (single strand protein DNA binding)"
+                "1": "helicase"
+                "2": "topoisomerase"
+                "3": "DNA polimerase"
+                "3": "DNAse"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "proteína SSB (single strand protein DNA binding)"
+                "1": "helicase"
+                "2": "topoisomerase"
+                "3": "DNA polimerase"
+                "3": "DNAse"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "proteína SSB (single strand protein DNA binding)"
+                "1": "helicase"
+                "2": "topoisomerase"
+                "3": "DNA polimerase"
+                "3": "DNAse"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "exemplo alternativa"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "exemplo alternativa"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "exemplo alternativa"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "exemplo alternativa"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "exemplo alternativa"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
+            "alts": {
+                "0": "exemplo alternativa"
+            },
+            "cAlt": 0
+        },
+        {        "enunciado": "enunciado-exemplo-sem-imagem",
             "alts": {
                 "0": "exemplo alternativa"
             },
             "cAlt": 0
         },
         {
-            "enunciado": "enunciado-exemplo-sem-imagem",
-            "alts": {
-                "0": "exemplo alternativa"
-            },
-            "cAlt": 0
-        }
-    ]
 }
