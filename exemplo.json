@@ -3,18 +3,84 @@
     "tema": "conc_hist_02",
     "questoes": [
         {
-            "enunciado": "enunciado-exemplo",
+            "Uma amostra contendo 10 bactérias contaminadas com radioatividade foi levada para um laboratório.  Para aumento do número de indivíduos, essas bactérias foram colocadas para crescer em meio com nucleotídeos não radioativos. Depois do tempo para ocorrer três replicações, você descobre que houve um problema na estufa que armazenava as bactérias, pois essa aumentou a temperatura e algumas bactérias morreram. Após essas três replicações foram encontradas 10 bactérias com radioatividade e 10 normais (sem radioatividade). Quantas bactérias radioativas e normais morreram durante a última divisão?": "Uma amostra contendo 10 bactérias contaminadas com radioatividade foi levada para um laboratório.  Para aumento do número de indivíduos, essas bactérias foram colocadas para crescer em meio com nucleotídeos não radioativos. Depois do tempo para ocorrer três replicações, você descobre que houve um problema na estufa que armazenava as bactérias, pois essa aumentou a temperatura e algumas bactérias morreram. Após essas três replicações foram encontradas 10 bactérias com radioatividade e 10 normais (sem radioatividade). Quantas bactérias radioativas e normais morreram durante a última divisão?",
             "alts": {
-                "0": "exemplo alternativa"
+                "0": "Morreram 60 bactérias normais"
+                "1": "Morreram 60 bactérias radioativas"
+                "2": "Morreram 30 bactérias normais e 30 não radioativas"
+                "3": "Morreram 10 bactérias radioativas e 50 normais "
+                "4": "Morreram 10 bactérias normais e 50 radioativas"
             },
-            "cAlt": 0
+            "cAlt": 3
         },
         {
-            "enunciado": "enunciado-exemplo-sem-imagem",
+            "(VALEC - 2012) Um tecido celular foi exposto à timidina radioativa por um breve período. Após esse período, a cultura foi lavada com salina e realizou-se uma autorradiografia. Nessa técnica, grãos de prata precipitados indicam onde houve incorporação da timidina em moléculas orgânicas.
+A exposição à autorradiografia mostrou que apenas 20% das células tiveram seus núcleos marcados. Nesse caso, é correto afirmar que:
+": "(VALEC - 2012) Um tecido celular foi exposto à timidina radioativa por um breve período. Após esse período, a cultura foi lavada com salina e realizou-se uma autorradiografia. Nessa técnica, grãos de prata precipitados indicam onde houve incorporação da timidina em moléculas orgânicas.
+A exposição à autorradiografia mostrou que apenas 20% das células tiveram seus núcleos marcados. Nesse caso, é correto afirmar que:",
             "alts": {
-                "0": "exemplo alternativa"
+                "0": "as células cujos núcleos foram marcados estavam na fase S do ciclo celular"
+                "1": "a timidina radioativa foi incorporada nos RNA mensageiros das células marcadas"
+                "2": "o mesmo resultado seria obtido se fosse utilizada uracila radioativa"
+                "3": "as células que não foram marcadas não estavam em processo de divisão celular"
+                "4": "a incorporação de timidina ocorreu somente nos genes ativos das células marcadas"
+                          
             },
             "cAlt": 0
-        }
-    ]
+        }   {
+            "(Prefeitura Maceió 2012) Em 1958, Matthew Meselson e Franklin Stahl testaram se cada filamento da dupla hélice de fato atuava como um molde para a síntese de um novo filamento. Assim, os autores, neste experimento, concluíram que as novas moléculas de DNA sintetizadas seriam ": "(Prefeitura Maceió 2012) Em 1958, Matthew Meselson e Franklin Stahl testaram se cada filamento da dupla hélice de fato atuava como um molde para a síntese de um novo filamento. Assim, os autores, neste experimento, concluíram que as novas moléculas de DNA sintetizadas seriam ",
+            "alts": {
+                "0": "mais pesadas do que as moléculas parentais originais contendo 15N"
+                "1": "diferentes entre os DNA leves e pesados, impedindo a sua separação por centrifugação"
+                "2": "semelhantes entre os DNA leves e pesados, possibilitando a sua separação por centrifugação de alta velocidade"
+                "3": "fragmentos degradados de DNA"
+                "4": "mais leves do que as moléculas parentais originais contendo 15N"
+            },
+            "cAlt": 5
+        },
+    ]            "(Biólogo-UFRJ-2008) Sobre o mecanismo de replicação de DNA, pode-se afirmar que:": "(Biólogo-UFRJ-2008) Sobre o mecanismo de replicação de DNA, pode-se afirmar que:",
+            "alts": {
+                "0": "existe uma única origem de replicação em procariotos e várias origens de replicação em eucariotos"
+                "1": "a replicação é semi-conservativa em eucariotos, mas não em procariotos"
+                "2": "a DNA Polimerase de procariotos e eucariotos é idêntica"
+                "3": "em procariotos a DNA Polimerase adiciona nucleotídeos nadireção 3’-5’"
+                "4": "a DNA Polimerase de procariotos não necessita de primers para iniciar a replicação"
+            },
+            "cAlt": 0
+        },            "(CEPERJ - 2011) 48. A progressão do ciclo celular nos organismos multicelulares pode ser interrompida nos pontos de checagem ou de veriﬁcação se houver danos no DNA. É essencial que a célula repare o seu DNA antes que ela se divida. Isso ocorre nos pontos de checagem que ﬁcam:": "(CEPERJ - 2011) 48. A progressão do ciclo celular nos organismos multicelulares pode ser interrompida nos pontos de checagem ou de veriﬁcação se houver danos no DNA. É essencial que a célula repare o seu DNA antes que ela se divida. Isso ocorre nos pontos de checagem que ﬁcam:",
+            "alts": {
+                "0": "no meio da fase S e na fase M"
+                "1": "no meio da fase S e no meio da fase G2"
+                "2": "no ﬁnal da fase G1 e no ﬁnal da fase G2"
+                "3": "no meio da fase G1 e da fase S"
+                "4": "entre a fase S e a fase G0"
+            },
+            "cAlt": 2
+        },            "(IFMG 2013) “Origens de replicação” são locais em que ocorre a abertura inicial das fitas de DNA, caracterizados por uma sequência específica de nucleotídeos. Assinale a alternativa que melhor expressa a relação entre o número desses locais e a complexidade do organismo. ": "(IFMG 2013) “Origens de replicação” são locais em que ocorre a abertura inicial das fitas de DNA, caracterizados por uma sequência específica de nucleotídeos. Assinale a alternativa que melhor expressa a relação entre o número desses locais e a complexidade do organismo.",
+            "alts": {
+                "0": "Organismos procariontes não apresentam origens de replicação"
+                "1": "Organismos procariontes apresentam maior número de origens de replicação que os eucariontes"
+                "2": "Organismos eucariontes apresentam maior número de origens de replicação que os procariontes"
+                "3": "Organismos eucariontes apresentam mesmo número de origens de replicação que os procariontes"
+                "4": "Organismos eucariontes possuem somente uma origem de replicação em cada cromossomo e os procariontes possuem pelo menos duas origens de replicação"
+            },
+            "cAlt": 2
+        },           "(UFMG 2016) A habilidade dos organismos vivos de reproduzir a própria espécie é uma das características que melhor distinguem os seres vivos da matéria não viva. Assim, a continuidade da vida depende da reprodução de células pré-existentes, ou seja, depende da divisão celular. O ciclo celular é constituído de uma fase mitótica mais curta, em que ocorre propriamente a divisão celular e uma fase mais longa, denominada interfase, na qual a célula cresce e se prepara para uma nova divisão. Em relação ao ciclo celular, é correto afirmar, EXCETO: ": "(UFMG 2016) A habilidade dos organismos vivos de reproduzir a própria espécie é uma das características que melhor distinguem os seres vivos da matéria não viva. Assim, a continuidade da vida depende da reprodução de células pré-existentes, ou seja, depende da divisão celular. O ciclo celular é constituído de uma fase mitótica mais curta, em que ocorre propriamente a divisão celular e uma fase mais longa, denominada interfase, na qual a célula cresce e se prepara para uma nova divisão. Em relação ao ciclo celular, é correto afirmar, EXCETO: ",
+            "alts": {
+                "0": "a duplicação dos cromossomos ocorre na fase mitótica"
+                "1": "G1, S e G2 são subfases da interfase"
+                "2": "a fase mitótica pode ser dividida em subfases ou estágios: prófase, prometáfase, metáfase, anáfase, telófase e citocinese"
+                "3": "o ciclo celular é controlado por cinases e ciclinas que são proteínas que atuam em pontos específicos de controle da interfase"
+                "4": "algumas células humanas vão à fase G0"
+            },
+            "cAlt": 0     
+        },            "(UFMG 2015) Meselson e Stahl propuseram um célebre experimento que demonstrou que a replicação do DNA seguia o modelo semiconservativo. Para isso, eles cultivaram E. coli por diversas gerações em meio contendo 15N e, então, as trasnferiram para um meio contendo 14N por uma geração ou duas gerações (um ou dois ciclos de replicação). O DNA dessas células foi extraído e centrifugado em gradiente de sacarose de DNA. Qual o resultado encontrado após a primeira geração?": "(UFMG 2015) Meselson e Stahl propuseram um célebre experimento que demonstrou que a replicação do DNA seguia o modelo semiconservativo. Para isso, eles cultivaram E. coli por diversas gerações em meio contendo 15N e, então, as trasnferiram para um meio contendo 14N por uma geração ou duas gerações (um ou dois ciclos de replicação). O DNA dessas células foi extraído e centrifugado em gradiente de sacarose de DNA. Qual o resultado encontrado após a primeira geração?",
+            "alts": {
+                "0": "Uma única banda de DNA de densidade intermediária"
+                "1": "Uma banda de DNA de alta densidade e uma de baixa densidade"
+                "2": "Uma única banda de DNA de baixa densidade"
+                "3": "Uma única banda de DNA de alta densidade"
+                "4": "Uma banda de procarioto de média densidade"
+            },
+            "cAlt": 0
 }
