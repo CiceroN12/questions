@@ -20,5 +20,8 @@
 
 **Tópicos**:
    * Iniciação: `iniciacao`
+   * Elongação: `elongação`
+   * Terminação: `terminação`
+   * Processamento: `processamento`
  
 
